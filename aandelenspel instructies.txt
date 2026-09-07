@@ -15,4 +15,4 @@ Tjeerd: https://aandelenspel.vercel.app/s/7800b67d5844ec166e095e9ea50b3179
 
 Let op: het menu kan er per Android-toestel/Chrome-versie net iets anders uitzien (soms staat het direct als "App installeren" met een download-icoontje in de adresbalk in plaats van achter de drie puntjes) — maar de optie is er bijna altijd.
 
-Tyreno - kleine aanpassing aandelenspel 
+Tyreno - kleine aanpassing aandelenspel @Mered
